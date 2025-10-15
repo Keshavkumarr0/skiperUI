@@ -32,8 +32,10 @@ It’s not just a UI — it’s a vibe ✨
 
    Install dependencies
    npm install
-Start the development server
-npm run dev
+
+   
+   Start the development server
+   npm run dev
 
 Open your browser and visit 👉 http://localhost:3000
 
